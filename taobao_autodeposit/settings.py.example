@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+# 淘宝配置
+APP_KEY = "23011108"
+SECRET = "a854567865678114161e4c710657d6a1"
+SESSION_KEY = "610110756789567890d6a8b8b790ed169790802de847efc65365132"
+# 网关配置
+AUTH_USER = "jingping.yi@gmail.com"
+AUTH_PASSWORD = "**********"
+GATEWAYD_REST_API = "https://0.0.0.0:5000/"
+CURRENCY = "CNY" 
+ISSUER = "rnPGp9RWoeCu26daydKqQverYd3H49U4tT"
